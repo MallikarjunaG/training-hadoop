@@ -1,0 +1,9 @@
+http://hadooped.blogspot.in/2013/05/apache-sqoop-for-data-integration.html
+
+http://hadooped.blogspot.in/2013/06/apache-oozie-part-1-workflow-with-hdfs.html
+
+https://github.com/airawat/OozieSamples
+
+https://github.com/Re1tReddy/Spark
+
+https://www.ashishpaliwal.com/blog/apache-flume-cookbook/
